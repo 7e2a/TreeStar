@@ -5,7 +5,7 @@ local Players = game:GetService("Players")
 local TeleportService = game:GetService("TeleportService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
-local SCRIPT_URL = "" -- Set to the raw HTTPS URL of THIS file
+local SCRIPT_URL = "https://raw.githubusercontent.com/7e2a/TreeStar/refs/heads/main/Main.lua" -- Set to the raw HTTPS URL of THIS file
 local START_DELAY = 11
 local TP_DELAY = 0.15
 local TRIGGER_DELAY = 0.1
